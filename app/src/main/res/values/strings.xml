@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConvMoneda</string>
+
+    <string-array name="lista1">
+
+        <item>USD</item>
+        <item>EUR</item>
+
+    </string-array>
+
+    <string-array name="lista2">
+
+        <item>USD</item>
+        <item>EUR</item>
+
+    </string-array>
+</resources>
